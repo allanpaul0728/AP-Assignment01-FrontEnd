@@ -1,10 +1,4 @@
-const SPACEDEVAPI_URL = "launch-data.js";
+const SPACEDEVAPI_URL = "launch-data.json";
 
 
-async function getTopList() {
-    response = await axios.get(`${SPACEDEVAPI_URL}/coins/markets`, {
-        params: { 
-            
-    });
-    return response.data;
-}
+

@@ -1,5 +1,6 @@
-#homepage {
-    background-image:url(images/SpaceBackground-A.jpg);
+body {
+    background-image:url("SpaceBackground-B.jpg");
+    height:100vh;
     background-size:cover;
     background-repeat:no-repeat;
 }
